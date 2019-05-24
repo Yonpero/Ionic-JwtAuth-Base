@@ -1,5 +1,7 @@
 {
   "name": "agriapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
